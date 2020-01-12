@@ -1,0 +1,229 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+.sobre {
+	position: absolute;
+	width: 1400px;
+	height: 1600px;
+	overflow: hidden;
+}
+
+.sobre img {
+	position: absolute;
+	width: 1497px;
+	height: 1871.5px;
+	left: 0px;
+	top: -269px;
+	overflow: visible;
+}
+
+/* Filtro escuro da imagem */
+#Path_4 { 
+	opacity: 0.64;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1400px;
+	height: 1600px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+/* Fonte Hovel */
+#sobre_mim {
+	position: absolute;
+	left: 803px;
+	top: 110px;
+	overflow: visible;
+	width: 436px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: hovel;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+
+.seta_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 429px;
+	transform: matrix(1,0,0,1,1023.5,8.5) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.seta_2 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 489px;
+	left: 699.924px;
+	top: 223.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#apres {
+	position: absolute;
+	left: 43px;
+	top: 110.5px;
+	overflow: visible;
+	width: 613px;
+	height: 688px;
+	text-align: center;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+
+#pic {
+	position: absolute;
+	width: 457.381px;
+	height: 457.53px;
+	left: 786px;
+	top: 223.39px;
+	overflow: visible;
+}
+#pic_elipse {
+	position: absolute;
+	width: 457.38px;
+	height: 457.38px;
+	left: 0px;
+	top: 0.151px;
+	overflow: visible;
+}
+
+#ellipse_8 {
+	opacity: 0.23;
+}
+.ellipse_8 {
+	width: 416.16px;
+	height: 416.16px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-1289.129px, -303.559px) matrix(1,0,0,1,1309.7393,324.1694) rotate(-6deg);
+	transform-origin: center;
+}
+
+.seta_back img {
+	color: white;
+	overflow: visible;
+	position: absolute;
+	width: 36.827px;
+	height: 57.35px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#retangulo {
+	opacity: 0.27;
+}
+.retangulo {
+	position: absolute;
+	overflow: visible;
+	width: 1304px;
+	height: 724px;
+	left: 48px;
+	top: 799px;
+}
+#dev {
+	position: absolute;
+	left: 817px;
+	top: 596px;
+	overflow: visible;
+	width: 409px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+
+#html5 {
+	position: absolute;
+	width: 239px;
+	height: 244px;
+	left: 105px;
+	top: 925px;
+	overflow: visible;
+}
+#css3 {
+	position: absolute;
+	width: 239px;
+	height: 244px;
+	left: 411px;
+	top: 925px;
+	overflow: visible;
+}
+#php {
+	position: absolute;
+	width: 239px;
+	height: 244px;
+	left: 717px;
+	top: 925px;
+	overflow: visible;
+}
+#js {
+	position: absolute;
+	width: 239px;
+	height: 244px;
+	left: 1023px;
+	top: 925px;
+	overflow: visible;
+}
+#descricao {
+	position: absolute;
+	left: 63px;
+	top: 1239px;
+	overflow: visible;
+	width: 1276px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Georgia;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+
+.btn {
+	background-color: #fff; /* white */
+        position: absolute;
+        overflow: visible;
+	    width: 295px;
+	    height: 66px;
+	    left: 553px;
+	    top: 1445px;
+        border: none;
+        height: auto;
+        color: black;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: .1em;
+}
+
+a.btn {border-radius: 8%;}
+
+    a.btn:hover {
+        background-color: #7693A6; /* Green */
+        color: white;
+}
+    
